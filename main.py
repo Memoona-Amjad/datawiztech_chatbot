@@ -184,7 +184,7 @@ def signup_page():
         </style>
     """, unsafe_allow_html=True)
 
-    st.markdown('<div class="login-signup-container">', unsafe_allow_html=True)
+    #st.markdown('<div class="login-signup-container">', unsafe_allow_html=True)
     st.title("Sign Up")
     st.markdown("## Create a new account.")
     
