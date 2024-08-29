@@ -161,14 +161,6 @@ def login_page():
 def signup_page():
     st.markdown("""
         <style>
-        .login-signup-container {
-            background: linear-gradient(135deg, #a3d9a5, #4CAF50);
-            padding: 3rem;
-            border-radius: 15px;
-            max-width: 400px;
-            margin: auto;
-            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-        }
         .stTextInput > div > input {
             border-radius: 12px;
             padding: 12px;
